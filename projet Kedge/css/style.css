@@ -1,0 +1,54 @@
+@import url("components/avatar.css");
+@import url("components/first-paragraph.css");
+@import url("components/button.css");
+
+
+
+h1 {
+	color: #B33951 !important;
+	font-size: 40px !important;
+	font-family: zapfino, cursive !important;
+	font-weight: bold !important;
+
+}
+
+h2 {
+	color: #4A5E76 !important;
+	font-size: 30px !important;
+	font-family: apple chancery !important;
+}
+
+h3 {
+	color: #C47576 !important;
+	font-size: 20px !important;
+	font-family: zapfino !important;
+	font-weight: bold !important;
+}
+
+h4 {
+	border: solid black 2px !important;
+	border-radius: 20px !important;
+}
+
+p {
+	color: rgb(50,50,50); !important;
+	font-size: 20px;
+	font-family: century;
+	text-align: justify;
+}
+
+body {
+	background-color: #D7CDC0 !important;
+}
+
+#p2 {
+	color: rgb(50,50,50);
+}
+
+.shadow {
+	box-shadow: 3px 5px 30px black
+}
+
+.list-inline {
+	color: #B33951;
+}
